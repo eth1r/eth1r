@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**eth1r/eth1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Andrey — AI Agent Developer & Prompt Engineer
 
-Here are some ideas to get you started:
+Я проектирую автономных ИИ-агентов, настраиваю сложные автоматизации и создаю RAG-системы для бизнеса. 
+Мой фокус — превращение рутины в эффективные алгоритмы с жестким контролем качества и затрат.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Current focus**: AI-агенты, архитектура n8n, автоматизация бизнес-процессов.
+* **Stack**: n8n, Kiro.dev, OpenAI API, Gemini API, Supabase.
+* **Mindset**: инженерный подход к промптам, оптимизация токенов, чистота логики.
+
+---
+
+### 🛠 Tech & Tools
+
+* **Automation**: n8n (Self-hosted / Cloud), интеграции через Webhooks.
+* **Development**: Kiro.dev (Custom JS logic), работа со структурами данных.
+* **AI & LLM**: Prompt Engineering (XML/CoT), RAG-архитектура, Token optimization.
+* **Data & Infra**: Supabase (Vector DB), PostgreSQL, Google Sheets API.
+* **Education**: Практикант курса «Промпт-инженер» в Zerocoder.
+
+---
+
+### 🚀 Selected Projects
+
+* **AI-ассистент для квалификации лидов**
+  Автоматическая классификация клиентов по услугам и ведение по скрипту продаж.
+  `n8n` · `OpenAI Assistants` · `Google Sheets` · `Logic`
+  repo: [link-to-repo]
+
+* **WhisperBot: Оптимизация промптов (Summary & Q&A)**
+  Разработка отказоустойчивых промптов для Groq Cloud (OSS 120B) и Claude 4.
+  `LLM-prompting` · `Extract-then-compress` · `Groq` · `QA-testing`
+  repo: [link-to-repo]
+
+* **RAG-система для экспертных блогов**
+  Цифровой двойник автора: генерация контента на основе базы знаний без галлюцинаций.
+  `n8n` · `Gemini 2.5 Pro` · `Supabase` · `Vector-Search`
+  repo: [link-to-repo]
+
+---
+
+| Больше проектов — в моём [resume-site] и [telegram-bot] |
